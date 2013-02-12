@@ -8,6 +8,7 @@ It's still work in progress. Currently there's a nice basic layouts, but for exa
 - embeddable forms using Backlift backend (e.g. collecting emails)
 - another starting template, with light colors
 - more and more general purpose templates, that would be easier to use
+- improve plotting library
 
 Mission: to be Twitter Bootstrap for slide decks :) 
 
